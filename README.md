@@ -1,5 +1,5 @@
 # Array_in_depth_lec_work.
-
+```javascript
  var names=["ahmad","sultan","jajja","danish","jajja","hamid","jajja"];
 
 console.log("array",names);
@@ -83,7 +83,5 @@ console.log("array after slice operation=>",names);
 console.log("new array=>",newNames);
 
 
-
-
-
 // first lecture of array is over
+```
